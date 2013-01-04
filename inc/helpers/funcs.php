@@ -51,7 +51,7 @@ function formatLdifFile($ldifFile)
       $line = trim($line);
 
       if ($line[0] !== "#" && strpos($line, "search:") !== 0 && strpos($line, "result:") !== 0) {
-         $fileContent .= "$line\n";
+         $fileContent .= "$line\r\n";
       }
    }
 
