@@ -1,0 +1,4 @@
+ldif-files/*
+*.csv
+
+*.swp
