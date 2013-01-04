@@ -19,7 +19,7 @@
                 Admin <b class="caret"></b>
               </a>
               <ul class="dropdown-menu">
-                 <li> <a href="ldif-file-list">Download LDIF files</a> </li>
+                 <li> <a href="ldif-file-list.php">Download LDIF files</a> </li>
               </ul>
             </li>
 
